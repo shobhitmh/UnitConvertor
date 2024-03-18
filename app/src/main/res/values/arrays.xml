@@ -1,0 +1,9 @@
+<!-- arrays.xml -->
+<resources>
+    <string-array name="unit_array">
+        <item>Meters</item>
+        <item>Centimeters</item>
+        <item>Kilometers</item>
+        <!-- Add more length units as needed -->
+    </string-array>
+</resources>
